@@ -75,7 +75,7 @@ class DataTransformation():
 
             logging.info("Read train and test data")
             logging.info(f"Train dataframe head : \n{train_df.head().to_string()}")
-            logging.info(f"Train dataframe head : \n{train_df.head().to_string()}")
+            logging.info(f"Test dataframe head : \n{test_df.head().to_string()}")
 
             preprocessing_obj=self.get_data_transformation()
 
