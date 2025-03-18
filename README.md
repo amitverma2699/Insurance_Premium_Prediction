@@ -24,10 +24,10 @@ Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Eng
 - **Webpage &Deployment :** Created a web application that takes all the necessary inputs from the user & shows the output. Then deployed project on the Local Platform.
 
 ## Web Inerface :
-![alt text](https://github.com/nikhilpatil44/insurance-premium-prediction/blob/main/images/webapp%20interface-2.png)
+![alt text](https://github.com/amitverma2699/Insurance_Premium_Prediction/blob/main/images/webapp%20interface-2.png)
 
 
-![alt text](https://github.com/nikhilpatil44/insurance-premium-prediction/blob/main/images/webapp%20interface-1%20.png)
+![alt text](https://github.com/amitverma2699/Insurance_Premium_Prediction/blob/main/images/webapp%20interface-1%20.png)
 
 
 ## Libraries used :
