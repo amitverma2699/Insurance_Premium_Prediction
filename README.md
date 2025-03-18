@@ -23,6 +23,13 @@ Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Eng
 - **Pickle File** : Selected model as per best RMSE score & R-squared and created pickle file using pickle library.
 - **Webpage &Deployment :** Created a web application that takes all the necessary inputs from the user & shows the output. Then deployed project on the Local Platform.
 
+## Web Inerface :
+![alt text](https://github.com/nikhilpatil44/insurance-premium-prediction/blob/main/images/webapp%20interface-2.png)
+
+
+![alt text](https://github.com/nikhilpatil44/insurance-premium-prediction/blob/main/images/webapp%20interface-1%20.png)
+
+
 ## Libraries used :
     1) Pandas
     2) Numpy
